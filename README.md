@@ -11,7 +11,7 @@ HomeMatch is an **AI-powered real estate application** designed to revolutionize
 - **Scalable Data**: Handles large datasets of real estate listings using vector-based search.
 
 ## Technologies Used
-- **Large Language Model (LLM)**: OpenAI's GPT-3.5-turbo for generating descriptions and handling user input.
+- **Large Language Model (LLM)**: OpenAI's GPT-4o mini for generating descriptions and handling user input.
 - **Vector Database**: ChromaDB for storing and performing semantic searches on property listing embeddings.
 - **LangChain**: For efficient integration of LLMs and vector embeddings.
 
